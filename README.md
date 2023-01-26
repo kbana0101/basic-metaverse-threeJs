@@ -16,4 +16,6 @@ https://faucet.polygon.technology/
 5. I have deployed BVerse smart contract on polygon testnet, you can mint you building nft here with test MATIC- https://mumbai.polygonscan.com/address/0x4298b244bb5e92e5615b0c4a803ff3582873c70c#writeContract
 6. use arrow keys - UP & DOWN to change camera position of metaverse
 
-Note: you can also use contract "BVerse.sol" edit it on remix and flatten the file to get dependencies aand deploy on any testnet.
+Note: you can also use contract "BVerse.sol" edit it on remix and flatten the file to get dependencies and deploy on any testnet.
+
+Hosted as GitHub pages here - https://kbana0101.github.io/basic_metaverse_threejs/
